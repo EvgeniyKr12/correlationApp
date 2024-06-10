@@ -1,0 +1,17 @@
+
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.log
+*.tmp
+node_modules/
+
+.cache/
+.mypy_cache/
+.pytest_cache/
+
